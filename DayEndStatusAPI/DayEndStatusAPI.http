@@ -1,0 +1,6 @@
+@DayEndStatusAPI_HostAddress = http://localhost:5054
+
+GET {{DayEndStatusAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
